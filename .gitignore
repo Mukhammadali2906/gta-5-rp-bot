@@ -4,8 +4,9 @@ package-lock.json
 yarn-lock.json
 yarn-error
 yarn-error.json
-.env
+#.env
 .idea
+userData.json
 .vscode
 dist
 node_modules

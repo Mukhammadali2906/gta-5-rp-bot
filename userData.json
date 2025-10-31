@@ -4,24 +4,14 @@
     "name": "LION",
     "username": "@LION_6215",
     "joinedAt": "2025-10-28T13:08:14.305Z",
-    "farmState": {
-      "26": true,
-      "45": false
-    }
+    "farmState": {   }
   },
   "1058236702": {
     "id": 1058236702,
     "name": "Tommy",
     "username": "@tommy_7771",
     "joinedAt": "2025-10-28T10:38:34.189Z",
-    "farmState": {
-      "49": true,
-      "50": true,
-      "55": false,
-      "56": true,
-      "58": true
-    },
-    "language": "uz"
+    "farmState": {}
   },
   "1186754686": {
     "id": 1186754686,
@@ -43,17 +33,7 @@
     "name": "Muhammadali",
     "username": "@mahamadjonov_muhammadali",
     "joinedAt": "2025-10-27T08:13:27.694Z",
-    "farmState": {
-      "1": false,
-      "2": false,
-      "3": false,
-      "7": false,
-      "19": false,
-      "37": true,
-      "56": true,
-      "59": false,
-      "60": false
-    },
-    "language": "ru"
+    "farmState": { },
+    "language": "uz"
   }
 }
