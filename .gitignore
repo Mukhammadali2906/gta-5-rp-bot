@@ -8,9 +8,6 @@ yarn-error.json
 .idea
 userData.json
 .vscode
-dist
-node_modules
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 yarn*.log
