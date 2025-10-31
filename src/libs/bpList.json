@@ -1,0 +1,444 @@
+[
+  {
+    "id": 1,
+    "name": "Работа",
+    "nameUz": "Ish",
+    "category": "job",
+    "child": [
+      {
+        "id": 37,
+        "name": "Выполнить 25 действий в порту",
+        "nameUz": "Portda 25 ta harakatni bajaring",
+        "bp": 2
+      },
+      {
+        "id": 39,
+        "name": "Выполнить 25 действий на шахте",
+        "nameUz": "Kon maydonida 25 ta harakatni bajaring",
+        "bp": 2
+      },
+      {
+        "id": 40,
+        "name": "Выполнить 25 действий на стройке",
+        "nameUz": "Qurilishda 25 ta harakatni bajaring",
+        "bp": 2
+      },
+      {
+        "id": 41,
+        "name": "Потушить 25 огоньков, работая пожарным",
+        "nameUz": "Yong'inchi sifatida 25 ta olovni o'chiring",
+        "bp": 1
+      },
+      {
+        "id": 42,
+        "name": "Доставить 10 посылок, работая почтальоном",
+        "nameUz": "Pochta xodimi sifatida 10 ta posilkani yetkazib bering",
+        "bp": 1
+      },
+      {
+        "id": 43,
+        "name": "Выполнить 10 действий на ферме (например, подоить корову)",
+        "nameUz": "Fermer xo‘jaligida 10 ta harakatni bajaring (masalan, sigir sog‘ish)",
+        "bp": 1
+      },
+      {
+        "id": 44,
+        "name": "Выполнить 2 рейсов в порт из любой точки, работая дальнобойщиком",
+        "nameUz": "Yuk mashinasi haydovchisi sifatida istalgan joydan portga 2 ta qatnov bajaring",
+        "bp": 2
+      },
+      {
+        "id": 45,
+        "name": "Выполнить 2 рейса на любом маршруте, работая водителем автобуса",
+        "nameUz": "Avtobus haydovchisi sifatida istalgan marshrutda 2 ta qatnov bajaring",
+        "bp": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Хобби",
+    "nameUz": "Xobbi",
+    "category": "hobby",
+    "child": [
+      {
+        "id": 46,
+        "name": "Снять 5 шкур прочностью 100% (надо убить животное с 1 выстрела)",
+        "nameUz": "5 ta 100% mustahkamlikdagi terini oling (hayvonni 1 o‘q bilan o‘ldiring)",
+        "bp": 2
+      },
+      {
+        "id": 47,
+        "name": "Выкопать 1 сокровище (не хлам)",
+        "nameUz": "1 ta xazina toping (keraksiz narsa emas)",
+        "bp": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Бизнес",
+    "nameUz": "Biznes",
+    "category": "business",
+    "child": [
+      {
+        "id": 48,
+        "name": "Вручную заказать материалы на склад бизнеса (нажать выкл./вкл.)",
+        "nameUz": "Biznes omboriga materiallarni qo‘lda buyurtma qiling (yoqish/o‘chirish tugmasini bosing)",
+        "bp": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Одиночные",
+    "nameUz": "Yakkalik",
+    "category": "solo",
+    "child": [
+      {
+        "id": 49,
+        "name": "Выполнить 1 успешную тренировку в тире",
+        "nameUz": "Tirda 1 ta muvaffaqiyatli mashqni bajaring",
+        "bp": 1
+      },
+      {
+        "id": 50,
+        "name": "Арендовать Киностудию (с наличием VIP предоставляется скидка)",
+        "nameUz": "Kinostudiyani ijaraga oling (VIP mavjud bo‘lsa chegirma beriladi)",
+        "bp": 2
+      },
+      {
+        "id": 51,
+        "name": "Выиграть в казино, поставив на 0 или 00",
+        "nameUz": "Kazino o‘yinida 0 yoki 00 ga tikib yuting",
+        "bp": 2
+      },
+      {
+        "id": 52,
+        "name": "Провести 3 часа в игре (не работает, если стоять АФК)",
+        "nameUz": "O‘yinda 3 soat o‘tkazing (AFK holatida hisoblanmaydi)",
+        "bp": 2
+      },
+      {
+        "id": 53,
+        "name": "Выполнить 20 подходов на любом тренажёре в спортивном зале или на спортплощадке",
+        "nameUz": "Sport zalida yoki maydonda 20 ta mashqni bajaring",
+        "bp": 1
+      },
+      {
+        "id": 54,
+        "name": "Выполнить 20 подходов на любом эспандере (заменяет спортивный зал)",
+        "nameUz": "Istalgan espanderda 20 ta mashqni bajaring (sport zalini almashtiradi)",
+        "bp": 1
+      },
+      {
+        "id": 55,
+        "name": "Выполнить 20 подходов на любом эспандере (заменяет спортивный зал)",
+        "nameUz": "Istalgan espanderda 20 ta mashqni bajaring (sport zalini almashtiradi)",
+        "bp": 1
+      },
+      {
+        "id": 56,
+        "name": "Купить 1 лотерейный билет через телефон",
+        "nameUz": "Telefon orqali 1 ta lotereya chipta sotib oling",
+        "bp": 1
+      },
+      {
+        "id": 57,
+        "name": "2 раза сменить внешность у NPC Хирурга в городской EMS",
+        "nameUz": "Shahardagi EMSdagi Jarroh NPCda 2 marta tashqi ko‘rinishni o‘zgartiring",
+        "bp": 2
+      },
+      {
+        "id": 58,
+        "name": "Добавить 5 видео в Кинотеатр (можно добавить 1 ролик 5 раз)",
+        "nameUz": "Kinoteatrga 5 ta video qo‘shing (1 rolikni 5 marta qo‘shish mumkin)",
+        "bp": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Парные",
+    "nameUz": "Juftlik",
+    "category": "pair",
+    "child": [
+      {
+        "id": 59,
+        "name": "Выиграть 1 гонку на картинге",
+        "nameUz": "Karting poygasida 1 marta g‘olib bo‘ling",
+        "bp": 1
+      },
+      {
+        "id": 60,
+        "name": "Проехать 1 уличную гонку, созданную через телефон со ставкой от 1000$ (с 5-го уровня)",
+        "nameUz": "Telefon orqali yaratilgan ko‘cha poygasida qatnashing (stavka 1000$ dan, 5-darajadan boshlab)",
+        "bp": 1
+      },
+      {
+        "id": 61,
+        "name": "Победить 3 раза в Dance Battle в любом из ночных клубов",
+        "nameUz": "Istalgan tungi klubda 3 marta raqs jangida g‘olib bo‘ling",
+        "bp": 2
+      },
+      {
+        "id": 62,
+        "name": "Выиграть 3 игры на Арене Maze Bank со ставкой от 100$",
+        "nameUz": "Maze Bank arenada 100$ dan boshlanadigan 3 ta o‘yinda g‘alaba qozoning",
+        "bp": 1
+      },
+      {
+        "id": 63,
+        "name": "Выиграть 5 игр в Тренировочном комплексе (ТК) со ставкой от 100$",
+        "nameUz": "Trening majmuasida (TM) 100$ dan 5 ta o‘yinda g‘alaba qozoning",
+        "bp": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Гос.",
+    "nameUz": "Davlat",
+    "category": "gov",
+    "child": [
+      {
+        "id": 24,
+        "name": "Выдать 5 медкарт, работая в EMS",
+        "nameUz": "EMSda ishlayotganda 5 ta tibbiy kartani bering",
+        "bp": 1
+      },
+      {
+        "id": 25,
+        "name": "Закрыть 15 вызовов, работая в EMS",
+        "nameUz": "EMSda ishlayotganda 15 ta chaqiruvni yakunlang",
+        "bp": 2
+      },
+      {
+        "id": 26,
+        "name": "Произвести 1 арест в КПЗ LSPD/LSSD",
+        "nameUz": "LSPD/LSSDda 1 ta hibsga olishni amalga oshiring",
+        "bp": 1
+      },
+      {
+        "id": 27,
+        "name": "Поставить 2 транспортных средства на учёт, работая в LSPD",
+        "nameUz": "LSPDda ishlayotganda 2 ta transport vositasini ro‘yxatdan o‘tkazing",
+        "bp": 2
+      },
+      {
+        "id": 28,
+        "name": "Выпустить 2-х заключённых под залог из КПЗ LSPD/LSSD, работая адвокатом",
+        "nameUz": "Advokat sifatida LSPD/LSSDdan 2 mahbusni garov bilan ozod qiling",
+        "bp": 2
+      },
+      {
+        "id": 29,
+        "name": "Проверить и опубликовать 40 объявлений, работая в Weazel News",
+        "nameUz": "Weazel Newsda 40 ta e’lonnni tekshirib, nashr eting",
+        "bp": 2
+      },
+      {
+        "id": 30,
+        "name": "Отправить 1 сообщение в Эфир (зелёная строка), работая в Weazel News",
+        "nameUz": "Weazel Newsda 1 ta efir xabarini yuboring (yashil satrda)",
+        "bp": 2
+      },
+      {
+        "id": 31,
+        "name": "Отправить 1 сообщение в Эфир (зелёная строка), работая в Weazel News",
+        "nameUz": "Weazel Newsda 1 ta efir xabarini yuboring (yashil satrda)",
+        "bp": 2
+      },
+      {
+        "id": 38,
+        "name": "Закрыть 5 вызовов, работая в гос. (например, Код-0)",
+        "nameUz": "Davlat xizmatida ishlayotganda 5 ta chaqiruvni yakunlang (masalan, Kod-0)",
+        "bp": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Crime",
+    "nameUz": "Jinoyat",
+    "category": "crime",
+    "child": [
+      {
+        "id": 32,
+        "name": "Поучаствовать в капте (банда) или бизваре (мафия)",
+        "nameUz": "Kapt (banda) yoki bizvar (mafiya)da ishtirok eting",
+        "bp": 1
+      },
+      {
+        "id": 33,
+        "name": "Привезти на титул Хаммер с ВЗХ",
+        "nameUz": "VZX bilan Hammerni titulga olib keling",
+        "bp": 3
+      },
+      {
+        "id": 34,
+        "name": "5 раз получить оплату за доставку контрабанды в мафии",
+        "nameUz": "Mafiyada kontrabanda yetkazib berish uchun 5 marta to‘lov oling",
+        "bp": 2
+      },
+      {
+        "id": 35,
+        "name": "Взломать 15 замков на ограблениях домов и/или угонах авто",
+        "nameUz": "Uy yoki avtomobil o‘g‘irliklarida 15 ta qulfni buzib oching",
+        "bp": 2
+      },
+      {
+        "id": 36,
+        "name": "Закрасить 7 граффити, находясь в банде (можно закрасить одно граффити 7 раз)",
+        "nameUz": "Bandada bo‘lgan holda 7 ta grafitini bo‘yang (bitta grafitini 7 marta bo‘yash mumkin)",
+        "bp": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Разное",
+    "nameUz": "Turli xil",
+    "category": "other",
+    "child": [
+      {
+        "id": 1,
+        "name": "Посетить любой сайт в браузере",
+        "nameUz": "Brauzerda istalgan saytga kiring",
+        "bp": 1
+      },
+      {
+        "id": 2,
+        "name": "Зайти в любой канал в Brawl",
+        "nameUz": "Brawl ichida istalgan kanalda kiring",
+        "bp": 1
+      },
+      {
+        "id": 3,
+        "name": "Поставить лайк любой анкете в Match",
+        "nameUz": "Match ichida istalgan anketa uchun layk qo‘ying",
+        "bp": 1
+      },
+      {
+        "id": 4,
+        "name": "Прокрутить за DP серебряный или золотой кейс",
+        "nameUz": "DP orqali kumush yoki oltin qutini aylantiring",
+        "bp": 10
+      },
+      {
+        "id": 5,
+        "name": "Кинуть мяч питомцу 15 раз",
+        "nameUz": "Uy hayvoningizga 15 marta to‘p oting",
+        "bp": 2
+      },
+      {
+        "id": 6,
+        "name": "15 выполненных питомцем команд",
+        "nameUz": "Uy hayvoningiz 15 ta buyruqni bajarsin",
+        "bp": 2
+      },
+      {
+        "id": 7,
+        "name": "Ставка в колесе удачи в казино (мехсеребряное колесо)",
+        "nameUz": "Kazino baxt g‘ildiragida stavka qo‘ying (mexkumush g‘ildirak)",
+        "bp": 3
+      },
+      {
+        "id": 8,
+        "name": "Проехать 1 станцию на метро",
+        "nameUz": "Metroda 1 ta stansiyani bosib o‘ting",
+        "bp": 2
+      },
+      {
+        "id": 9,
+        "name": "Поймать 20 рыб",
+        "nameUz": "20 ta baliq tuting",
+        "bp": 4
+      },
+      {
+        "id": 10,
+        "name": "Выполнить 2 квеста любых клубов",
+        "nameUz": "Istalgan klubdan 2 ta topshiriqni bajaring",
+        "bp": 4
+      },
+      {
+        "id": 11,
+        "name": "Починить деталь в автосервисе",
+        "nameUz": "Avtoservisda biror detallarni ta’mirlang",
+        "bp": 1
+      },
+      {
+        "id": 12,
+        "name": "Забросить 2 мяча в баскетболе",
+        "nameUz": "Basketbolda 2 ta to‘pni savatga tashlang",
+        "bp": 1
+      },
+      {
+        "id": 13,
+        "name": "Забить 2 гола в футболе",
+        "nameUz": "Futbolda 2 ta gol uring",
+        "bp": 1
+      },
+      {
+        "id": 14,
+        "name": "Победить в армрестлинге",
+        "nameUz": "Qo‘l kurashida g‘olib bo‘ling",
+        "bp": 1
+      },
+      {
+        "id": 15,
+        "name": "Победить в дартс",
+        "nameUz": "Darts o‘yinida g‘olib bo‘ling",
+        "bp": 1
+      },
+      {
+        "id": 16,
+        "name": "Забить 10 голов в волейболе",
+        "nameUz": "Voleybolda 10 ta gol uring",
+        "bp": 1
+      },
+      {
+        "id": 17,
+        "name": "Поиграть 1 минуту в настольный теннис",
+        "nameUz": "Stol tennisi o‘yinida 1 daqiqa o‘ynang",
+        "bp": 1
+      },
+      {
+        "id": 18,
+        "name": "Поиграть 1 минуту в большой теннис",
+        "nameUz": "Katta tennis o‘yinida 1 daqiqa o‘ynang",
+        "bp": 1
+      },
+      {
+        "id": 19,
+        "name": "Сыграть в мафию в казино",
+        "nameUz": "Kazino ichida mafiya o‘yinini o‘ynang",
+        "bp": 3
+      },
+      {
+        "id": 20,
+        "name": "Сделать платёж по лизингу",
+        "nameUz": "Lizing to‘lovini amalga oshiring",
+        "bp": 1
+      },
+      {
+        "id": 21,
+        "name": "Посадить траву в теплице",
+        "nameUz": "Issiqxonada o‘t eking",
+        "bp": 4
+      },
+      {
+        "id": 22,
+        "name": "Запустить переработку обезболивающих в лаборатории",
+        "nameUz": "Laboratoriyada og‘riq qoldiruvchi dorilarni qayta ishlashni boshlang",
+        "bp": 4
+      },
+      {
+        "id": 23,
+        "name": "Принять участие в двух аирдропах",
+        "nameUz": "Ikki ta airdropda ishtirok eting",
+        "bp": 4
+      }
+    ]
+  }
+]

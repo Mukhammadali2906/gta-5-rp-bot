@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    /* === Основные настройки === */
+    "target": "ES2020",               // Современный стандарт JS
+    "module": "CommonJS",             // Чтобы работал с Node.js
+    "rootDir": "src",                 // Где лежат исходники
+    "outDir": "dist",                 // Куда компилировать JS
+    "moduleResolution": "node",
+    "esModuleInterop": true,          // Позволяет писать import TelegramBot from 'node-telegram-bot-api'
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+
+    /* === Удобства разработки === */
+    "strict": true,                   // Включает строгую типизацию
+    "resolveJsonModule": true,        // Разрешает импорт JSON-файлов
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,           // Можно не указывать тип везде (удобно для старта)
+    "isolatedModules": true,          // Совместимо с ts-node и ts-node-dev
+
+    /* === Node.js окружение === */
+    "types": ["node"],                // Добавляет типы Node.js
+  },
+  "include": ["src/**/*"],            // Всё, что внутри src/
+  "exclude": ["node_modules", "dist"] // Исключаем лишнее
+}
